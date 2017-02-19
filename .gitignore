@@ -1,0 +1,9 @@
+.DS_Store
+Assets
+Library
+ProjectSettings
+Temp
+*.xml
+*.csproj
+*.sln
+.vscode
